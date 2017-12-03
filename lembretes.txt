@@ -1,0 +1,6 @@
+Lembrar de: 
+- fazer os loops de dentro pra fora.
+- zerar as variaveis sempre um nivel acima.
+- As variaveis estao na correspondencia variavel-1 no array booleano
+- usar copy() pra criar a copia do array sem referencia
+Enviar dia 5.
